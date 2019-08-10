@@ -7,13 +7,13 @@ A little manual work is required to get the automation going, but it's one time 
 ## Installing
 
 ```shell
-yarn add time-edit-api
+yarn add @juhosa/time-edit-api
 ```
 
 ## Usage
 
 ```javascript
-const TimeEdit = require("time-edit-api");
+const TimeEdit = require("@juhosa/time-edit-api");
 
 // The constructor requires a base url (your school/org has its own)
 const te = new TimeEdit(`https://cloud.timeedit.net/samk/web/public/`);

@@ -1,5 +1,5 @@
 {
-  "name": "time-edit-api",
+  "name": "@juhosa/time-edit-api",
   "description": "Get implementation/course timetable as a JS object from TimeEdit.",
   "version": "1.0.0",
   "author": "Juho Salli <juho@jsalli.com>",
@@ -7,10 +7,14 @@
     "type": "git",
     "url": "https://github.com/juhosa/time-edit-api.git"
   },
+  "homepage": "https://github.com/juhosa/time-edit-api",
+  "bugs": {
+    "url": "https://github.com/juhosa/time-edit-api/issues"
+  },
   "keywords": [
-      "timeedit",
-      "lib",
-      "api"
+    "timeedit",
+    "lib",
+    "api"
   ],
   "license": "MIT",
   "dependencies": {
