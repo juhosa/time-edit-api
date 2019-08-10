@@ -1,7 +1,7 @@
 {
   "name": "@juhosa/time-edit-api",
   "description": "Get implementation/course timetable as a JS object from TimeEdit.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Juho Salli <juho@jsalli.com>",
   "repository": {
     "type": "git",
